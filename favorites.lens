@@ -1,0 +1,11 @@
+[Lens]
+DBusName=unity.singlet.lens.favorites
+DBusPath=/unity/singlet/lens/favorites
+Name=Favorites
+Icon=/usr/share/unity/lenses/favorites/unity-lens-favorites.svg
+Description=Favorites Lens
+SearchHint=Search Favorites
+#Shortcut=c
+
+[Desktop Entry]
+X-Ubuntu-Gettext-Domain=favorites
