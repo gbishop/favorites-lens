@@ -5,7 +5,7 @@ Name=Favorites
 Icon=/usr/share/unity/lenses/favorites/unity-lens-favorites.svg
 Description=Favorites Lens
 SearchHint=Search Favorites
-#Shortcut=c
+Shortcut=c
 
 [Desktop Entry]
 X-Ubuntu-Gettext-Domain=favorites
